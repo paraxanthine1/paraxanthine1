@@ -1,4 +1,4 @@
-# Hi, I'm realtevix 👋
+# Hi, I'm paraxanthine
 
 > Developer passionate about game modding, automation, and C++. 
 > Focused on clean code and minimalist aesthetics.
@@ -11,8 +11,8 @@
 ---
 
 ### 🌐 Connect with me
-* **Discord:** `realtevix`
+* **Discord:** `paraxanthine`
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=z1ir&color=444444&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=paraxanthine&color=444444&style=flat-square" alt="views" />
