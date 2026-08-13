@@ -14,5 +14,3 @@
 * **Discord:** `paraxanthine`
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=paraxanthine&color=444444&style=flat-square" alt="views" />
